@@ -1,5 +1,5 @@
 # SimpleSignedApi
-A simple library to handle signed and secure APIs for limited applications
+A simple library to handle signed and secure APIs (HMAC - Hashed-based message authentication) for limited applications.  This allows you to create simple APIs without needing to set up things like OATH, manage bearer tokens, and prevents various API attack vectors.
 
 # Generate Public and Private Access Keys
 Use the ApiSignedRequestHelper to generate your public and private keys.  
